@@ -1,0 +1,5 @@
+# this file contains the social media links and usernames of the author
+cv_pdf: # path to your CV PDF file
+email: # your email address (optional)
+rss_icon: true
+github_username: darlinghedge
