@@ -12,8 +12,8 @@ profile:
     <p>We stay low.</p>
     <p>Campus / Remote</p>
 
-selected_papers: true
-social: true
+selected_papers: false
+social: false
 
 announcements:
   enabled: true

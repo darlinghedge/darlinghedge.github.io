@@ -6,8 +6,7 @@ title: Lams Yuan
 first_name: Lams
 middle_name: " "
 last_name: Yuan
-contact_note: >
-  欢迎通过 GitHub 与我联系。
+contact_note: "欢迎通过 GitHub 与我联系。"
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Lams Yuan 的个人学术主页 — 研究兴趣、项目与笔记。
 footer_text: >
@@ -444,7 +443,7 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # disabled until ImageMagick pipeline verified on CI
   widths:
     - 480
     - 800
